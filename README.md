@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java and python
 - 💞️ I’m looking to collaborate on good company 
-- 📫 How to reach me ...
+- 📫 How to reach me vaibhavsinghrajput456@gmail.com
 
 <!---
 vaibhav163/vaibhav163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
